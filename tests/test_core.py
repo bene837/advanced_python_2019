@@ -14,6 +14,6 @@ sys.path.append(
 
 import playground
 
-def test_find_peaks():
-    peaks = playground.core.find_peaks([0, 2, 1])
-    assert peaks == [2]  
+#def test_find_peaks():
+#    peaks = playground.core.find_peaks([0, 2, 1])
+#    assert peaks == [2]  
