@@ -1,8 +1,8 @@
 
 def find_black(list_of_colors):
-    """Find peaks
+    """Find blacks
 
-    Find local maxima for a given list of intensities. 
+    Find local minima for a given list of intensities. 
     Intensities are defined as local maxima if the 
     intensities of the elements in the list before and after 
     are smaller than the peak we want to determine.
